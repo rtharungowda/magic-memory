@@ -1,5 +1,7 @@
 This is react.js based memory game.
 
+![play](play.gif)
+
 ## Install dependencies
 To install dependencies run
 ```
