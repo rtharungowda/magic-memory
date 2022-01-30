@@ -1,2 +1,9 @@
-# magic-memory
-A react based memory game.
+This is react.js based memory game.
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
