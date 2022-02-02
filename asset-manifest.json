@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/magic-memory/static/css/main.1835f849.css",
+    "main.css": "/magic-memory/static/css/main.42eadf70.css",
     "main.js": "/magic-memory/static/js/main.1597fddb.js",
     "static/media/cover.png": "/magic-memory/static/media/cover.b35cfd2810870e019e99.png",
     "static/media/shield-1.png": "/magic-memory/static/media/shield-1.a961da9569e66174ca3b.png",
@@ -10,11 +10,11 @@
     "static/media/sword-1.png": "/magic-memory/static/media/sword-1.47dbfbdd3a1e94165050.png",
     "static/media/ring-1.png": "/magic-memory/static/media/ring-1.4c376e3f983bd42b39d3.png",
     "index.html": "/magic-memory/index.html",
-    "main.1835f849.css.map": "/magic-memory/static/css/main.1835f849.css.map",
+    "main.42eadf70.css.map": "/magic-memory/static/css/main.42eadf70.css.map",
     "main.1597fddb.js.map": "/magic-memory/static/js/main.1597fddb.js.map"
   },
   "entrypoints": [
-    "static/css/main.1835f849.css",
+    "static/css/main.42eadf70.css",
     "static/js/main.1597fddb.js"
   ]
 }
