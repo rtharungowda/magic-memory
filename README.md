@@ -1,5 +1,7 @@
 This is react.js based memory game.
 
+## [Link to site](https://rtharungowda.github.io/magic-memory/)
+
 ![play](play.gif)
 
 ## Install dependencies
