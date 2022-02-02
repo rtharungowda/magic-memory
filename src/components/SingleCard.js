@@ -1,4 +1,5 @@
 import './SingleCard.css';
+import cover from "../img/cover.png" 
 
 function SingleCard(props){
     const card = props.card;
@@ -16,7 +17,7 @@ function SingleCard(props){
             <img className='front' src={card.src} alt="card front" />
             <img 
                 className='back' 
-                src="/img/cover.png" 
+                src={ cover }
                 alt="card back" 
                 onClick={ isTwoFlipped ? null :handleClick }
             />
